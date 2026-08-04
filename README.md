@@ -37,7 +37,7 @@ Reduce drop-off and boost conversions with ID scanning and verification solution
 
    Download the Server installer for your operating system from the following link:
    
-   [Download the On-premise Server Installer](https://drive.google.com/file/d/1NnZ-Ows3eI8O0TPTbJZcuIYUmVwXr-vV/view?usp=sharing)
+   [Download the On-premise Server Installer](https://drive.google.com/file/d/1L57cHF7xLCoTinlEcZmsPc5rVAFOUekN/view?usp=drive_link)
 
 2. **Install the On-premise Server:**
 
