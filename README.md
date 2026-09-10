@@ -250,7 +250,7 @@ Feel free to [Contact US](https://www.miniai.live/contact/)  to get a trial Lice
 [MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
 
 ## Contact US
-For any inquiries or questions, please contact us on [WhatsApp](https://wa.me/+15168245948).
+For any inquiries or questions, please contact us on [WhatsApp](https://wa.me/+19162702374).
 
 <p align="center">
 <a target="_blank" href="https://t.me/@assam38"><img src="https://img.shields.io/badge/telegram-@MiniAiLive-blue.svg?logo=telegram" alt="www.miniai.live"></a>&emsp;
